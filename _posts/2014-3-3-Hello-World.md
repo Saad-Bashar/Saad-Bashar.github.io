@@ -2,6 +2,7 @@
 layout: post
 title: Personal Study Plan
 ---
+#### Javascript
 
 #### Book 
   1. - [ ] Eloqeunt Javascript  
