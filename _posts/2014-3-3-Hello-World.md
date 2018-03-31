@@ -3,17 +3,15 @@ layout: post
 title: Personal Study Plan
 ---
 
-## Javascript: 
-
-### Book 
+#### Book 
   1. -[ ] Eloqeunt Javascript  
  
-### Online Course 
+#### Online Course 
   1. -[ ] JavaScript: Understanding the Weird Parts (Udemy)
   
-## React Native 
+#### React Native 
   1. -[x] The complete react-native and redux course (Udemy)
   2. -[ ] React Native: Advanced Concepts (Udemy) 
   
-## Node.js
+#### Node.js
   1. -[ ] The Complete Node.js Developer Course (2nd Edition)
