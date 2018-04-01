@@ -16,3 +16,6 @@ title: Personal Study Plan
   
 #### * Node.js
   1. - [ ] The Complete Node.js Developer Course (2nd Edition)
+  
+#### * Redux
+  1. - [ ] Getting start with Redux (https://egghead.io/courses/getting-started-with-redux)
