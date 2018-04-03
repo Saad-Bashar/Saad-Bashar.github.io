@@ -19,3 +19,7 @@ title: Personal Study Plan
   
 #### * Redux
   1. - [ ] Getting start with Redux (https://egghead.io/courses/getting-started-with-redux)
+  
+  
+#### * Maps & Geolocation
+  1. - [ ] The Comprehensive Beginner’s Guide to JavaScript Geolocation Tracking (https://hackernoon.com/the-comprehensive-beginners-guide-to-javascript-geolocation-tracking-11f7a1bba400)
