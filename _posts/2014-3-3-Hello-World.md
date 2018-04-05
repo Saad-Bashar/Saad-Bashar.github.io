@@ -19,6 +19,7 @@ title: Personal Study Plan
   
 #### * Redux
   1. - [ ] Getting start with Redux (https://egghead.io/courses/getting-started-with-redux)
+  2. - [ ] Modern React with Redux - Udemy Course
   
   
 #### * Maps & Geolocation
